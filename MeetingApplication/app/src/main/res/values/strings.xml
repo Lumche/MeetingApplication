@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Meeting Application</string>
+    <string name="heading">For the meeting, we have to collect your details using this form.</string>
+    <string name="belowheading">Please enter the following details:</string>
+    <string name="firstname">First Name</string>
+    <string name="inputfirstname">First Name</string>
+    <string name="surname">Surname</string>
+    <string name="inputsurname">Surname</string>
+    <string name="title">Title</string>
+    <string name="title1">Mr</string>
+    <string name="title2">Ms</string>
+    <string name="title3">Mrs</string>
+    <string name="title4">Miss</string>
+    <string name="title5">Dr</string>
+    <string name="email">Email</string>
+    <string name="location">Location</string>
+    <string name="location1">Office/Room</string>
+    <string name="location2">Suburb/Organisation Site/Campus</string>
+    <string name="location3">City</string>
+    <string name="button">SUBMIT</string>
+    <string name="paragraph1">paragraph1</string>
+    <string name="paragraph2">paragraph2</string>
+    <string name="paragraph3">paragraph3</string>
+    <string name="inputemail">email@email.com</string>
+</resources>
